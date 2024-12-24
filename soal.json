@@ -1,0 +1,17 @@
+{
+    "easy": [
+        { "question": "Benda yang sering digunakan untuk menulis?", "answer": "pulpen" },
+        { "question": "Hewan berbulu dan suka mengeong?", "answer": "kucing" },
+        { "question": "Buah berwarna merah dengan banyak biji kecil?", "answer": "stroberi" }
+    ],
+    "medium": [
+        { "question": "Negara dengan menara Eiffel?", "answer": "perancis" },
+        { "question": "Planet terbesar di tata surya?", "answer": "jupiter" },
+        { "question": "Nama ibu kota Indonesia?", "answer": "jakarta" }
+    ],
+    "hard": [
+        { "question": "Nama ibu kota Jepang?", "answer": "tokyo" },
+        { "question": "Hewan laut dengan tentakel?", "answer": "gurita" },
+        { "question": "Gunung tertinggi di dunia?", "answer": "everest" }
+    ]
+}
